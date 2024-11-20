@@ -1,5 +1,5 @@
 Для запуска приложения требуется выполнить следующие действия:
-1) Скачать архив с GitHub https://github.com/Ger0n1m0/highload/
+1) Скачать архив с GitHub [https://github.com/Ger0n1m0/highload/](https://github.com/Ger0n1m0/highload/tree/main)
 2) Распоковать архив в папку
 3) Запустить Git bush в папке, в которую разархивируется проект 
 4) Выполнить команду docker start
